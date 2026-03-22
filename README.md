@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤 About Me:
 I’m currently working on Full stack projects.<br>Primarily I’m looking to collaborate with startup companies.<br>From my current projects I’m learning ReactJS, NodeJS, MySQL/SQL databases, Performance & SEO<br>optimization.<br>In future I want to learn Agentic AI and Machine learning.<br><br>
 
 
